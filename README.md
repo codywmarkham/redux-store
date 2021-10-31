@@ -4,11 +4,11 @@
 
 ## Description
 
-An e-commerce platform 
+An redux e-commerce platform 
 
 ## ScreenShot
 
-
+![Image](./images/screenshot.png)
 
 ## Table of Contents
 
